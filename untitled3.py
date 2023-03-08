@@ -56,5 +56,5 @@ with open('performance.txt', 'w') as f:
     f.write('Memory used: {:.2f} MB\n'.format(memory_used))
     
 # # Write the link to the GitHub repository to a text file
-# with open('githublink.txt', 'w') as f:
-#     f.write('https://github.com/KishoreVijayakumar0/Translate-Words-Challenge')
+with open('githublink.txt', 'w') as f:
+    f.write('https://github.com/KishoreVijayakumar0/Translate-Words-Challenge')
